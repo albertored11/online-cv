@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Alberto Redondo Gil
     tagline:
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: herbort@herbort.me
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: https://github.com/albertored11/online-cv/raw/master/assets/files/CV_AlbertoRedondoGil.pdf
 
     languages:
       - idiom: Español
