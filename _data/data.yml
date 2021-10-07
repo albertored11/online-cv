@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Alberto Redondo Gil
-    tagline:
+    tagline: Computer Science student
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: herbort@herbort.me
+    email: albertomost@gmail.com
     phone: 684 05 77 66
     website: herbort.me #do not add http://
     linkedin: albertoredg
@@ -25,69 +25,134 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/albertored11/online-cv/raw/master/assets/files/CV_AlbertoRedondoGil.pdf
+    pdf: https://cv.herbort.me/assets/files/CV_AlbertoRedondoGil.pdf
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
       - idiom: Inglés
         level: C2
 
     interests:
-      - item:
+      - item: System administration
+        link:
+
+      - item: Software development
+        link:
+
+      - item: Problem solving through algorithms and data structures
+        link:
+
+      - item: Machine Learning
+        link:
+
+      - item: Programming languages and paradigms
+        link:
+
+      - item: Free and open source software
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Computer Science student at
+      [Facultad de Informática](https://informatica.ucm.es/),
+      [Universidad Complutense de Madrid](https://ucm.es/), in Madrid, Spain.
+      I am currently on my last year.
+
+      I love computers and technology in general since I was a kid. I am always
+      excited to learn and discover new technologies, and understand how things
+      work.
+
 education:
-    - degree:
-      university:
-      time:
+    - degree: Bachelor's Degree in Computer Science Engineering
+      university: Universidad Complutense de Madrid
+      time: 2017 - 2022
       details: |
+        Courses passed with honors:
+          - Fundamentals of Programming (12 ECTS)
+          - Data structures and algorithms (9 ECTS)
+          - Databases (6 ECTS)
+          - Technology and Organization of Computer Systems (6 ECTS)
         
-experiences:
-    - role:
-      time:
-      company:
-      details: |
+# experiences:
+#     - role:
+#       time:
+#       company:
+#       details: |
         
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Small personal projects I've been working on in my spare time.
     assignments:
-      - title:
-        link:
-        tagline:
+      - title: twitter-bot-randimg
+        link: https://github.com/albertored11/twitter-bot-randimg
+        tagline: "Twitter bot that posts a random image periodically (common use
+                 case: posting random frames from a TV show)."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
+      - title: bsptab
+        link: https://github.com/albertored11/bsptab
+        tagline: "Suckless' tabbed integration into bspwm."
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title:
+#         link:
+#         authors:
+#         conference:
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name:
-        level:
+      - name: Linux
+        level: 80%
+
+      - name: Git
+        level: 65%
+
+      - name: Bash
+        level: 60%
+
+      - name: C++
+        level: 50%
+
+      - name: Java
+        level: 50%
+
+      - name: C
+        level: 40%
+
+      - name: Haskell
+        level: 35%
+
+      - name: VHDL
+        level: 35%
+
+      - name: MiniZinc
+        level: 35%
+
+      - name: SQL
+        level: 30%
+
+      - name: Python
+        level: 30%
+
+      - name: Spring Boot
+        level: 25%
+
+      - name: Prolog
+        level: 20%
+
+      - name: Z3
+        level: 20%
 
 footer: >
-    Actualizado el jueves, 7 de octubre de 2021
+    Actualizado el viernes, 8 de octubre de 2021
