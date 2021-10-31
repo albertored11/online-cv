@@ -76,11 +76,10 @@ education:
           - Databases (6 ECTS)
           - Technology and Organization of Computer Systems (6 ECTS)
         
-# experiences:
-#     - role:
-#       time:
-#       company:
-#       details: |
+ experiences:
+     - role: Automation DevOps Trainee
+       time: oct 2021 - Present
+       company: Holcim EMEA Digital Center
         
 projects:
     title: Projects
@@ -113,21 +112,18 @@ skills:
 
     toolset:
       - name: Linux
-        level: 80%
-
-      - name: Git
-        level: 65%
+        level: 70%
 
       - name: Bash
         level: 60%
 
-      - name: C++
+      - name: Git
         level: 50%
+
+      - name: C++
+        level: 40%
 
       - name: Java
-        level: 50%
-
-      - name: C
         level: 40%
 
       - name: Haskell
@@ -138,6 +134,9 @@ skills:
 
       - name: MiniZinc
         level: 35%
+
+      - name: C
+        level: 30%
 
       - name: SQL
         level: 30%
@@ -155,4 +154,4 @@ skills:
         level: 20%
 
 footer: >
-    Last updated on October 8, 2021.
+    Last updated on October 31, 2021.
