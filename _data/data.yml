@@ -76,10 +76,10 @@ education:
           - Databases (6 ECTS)
           - Technology and Organization of Computer Systems (6 ECTS)
         
- experiences:
-     - role: Automation DevOps Trainee
-       time: oct 2021 - Present
-       company: Holcim EMEA Digital Center
+experiences:
+    - role: Automation DevOps Trainee
+      time: oct 2021 - Present
+      company: Holcim EMEA Digital Center
         
 projects:
     title: Projects
