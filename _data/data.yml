@@ -111,50 +111,51 @@ projects:
 #         authors:
 #         conference:
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Linux
-
-      - name: Bash
-        level: 60%
-
-      - name: Git
-        level: 50%
-
-      - name: C++
-        level: 40%
-
-      - name: Java
-        level: 40%
-
-      - name: Haskell
-        level: 35%
-
-      - name: VHDL
-        level: 35%
-
-      - name: MiniZinc
-        level: 35%
-
-      - name: C
-        level: 30%
-
-      - name: SQL
-        level: 30%
-
-      - name: Python
-        level: 30%
-
-      - name: Spring Boot
-        level: 25%
-
-      - name: Prolog
-        level: 20%
-
-      - name: Z3
-        level: 20%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Linux
+#        level: 70%
+#
+#      - name: Bash
+#        level: 60%
+#
+#      - name: Git
+#        level: 50%
+#
+#      - name: C++
+#        level: 40%
+#
+#      - name: Java
+#        level: 40%
+#
+#      - name: Haskell
+#        level: 35%
+#
+#      - name: VHDL
+#        level: 35%
+#
+#      - name: MiniZinc
+#        level: 35%
+#
+#      - name: C
+#        level: 30%
+#
+#      - name: SQL
+#        level: 30%
+#
+#      - name: Python
+#        level: 30%
+#
+#      - name: Spring Boot
+#        level: 25%
+#
+#      - name: Prolog
+#        level: 20%
+#
+#      - name: Z3
+#        level: 20%
 
 footer: >
-    Last updated on October 31, 2021.
+    Last updated on April 7, 2022.
