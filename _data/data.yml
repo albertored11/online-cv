@@ -36,22 +36,22 @@ sidebar:
         level: C2
 
     interests:
-      - item: System administration
+      - item: 🐧 Linux, system administration
         link:
 
-      - item: Software development
+      - item: 💲 Automation, shell scripting
         link:
 
-      - item: Problem solving through algorithms and data structures
+      - item: ☁️ Cloud computing
         link:
 
-      - item: Machine Learning
+      - item: 💻 Knowing about different programming paradigms and languages
         link:
 
-      - item: Programming languages and paradigms
+      - item: 🤓 Problem solving through algorithms and data structures
         link:
 
-      - item: Free and open source software
+      - item: 🧐 Learning and understanding how things work
         link:
 
 career-profile:
@@ -60,11 +60,14 @@ career-profile:
       Computer Science student at
       [Facultad de Informática](https://informatica.ucm.es/),
       [Universidad Complutense de Madrid](https://ucm.es/), in Madrid, Spain.
-      I am currently on my last year.
+      I am currently on my last year. Also working as a trainee in a DevOps
+      position.
 
-      I love computers and technology in general since I was a kid. I am always
-      excited to learn and discover new technologies, and understand how things
-      work.
+      I love computers and technology in general since I was a kid.
+      
+      I am a very curious person, and I am constantly looking forward to learn
+      anything I can. I love to discover new things, to explore alternatives,
+      and to think about different ways to get the same result.
 
 education:
     - degree: Bachelor's Degree in Computer Science Engineering
@@ -81,7 +84,7 @@ experiences:
     - role: Automation DevOps Trainee
       time: oct 2021 - Present
       company: Holcim EMEA Digital Center
-        
+
 projects:
     title: Projects
     intro: >
