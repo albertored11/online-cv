@@ -116,7 +116,6 @@ skills:
 
     toolset:
       - name: Linux
-        level: 70%
 
       - name: Bash
         level: 60%
