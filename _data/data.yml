@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alberto Redondo Gil
-    tagline: Computer Science student & Automation DevOps Trainee
+    tagline: Junior DevOps Consultant
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://cv.herbort.me/assets/files/CV_AlbertoRedondoGil_en.pdf
+    pdf: https://cv.herbort.me/assets/files/CV_AlbertoRedondoGil.pdf
 
     languages:
       - idiom: Spanish
@@ -57,17 +57,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Computer Science student at
-      [Facultad de Informática](https://informatica.ucm.es/),
-      [Universidad Complutense de Madrid](https://ucm.es/), in Madrid, Spain.
-      I am currently on my last year. Also working as a trainee in a DevOps
-      position.
+      Working as a Junior DevOps Consultant for Holcim EMEA Digital Center,
+      the EMEA IT services company of the Holcim Group, a top Swiss
+      multinational company that manufactures building materials.
 
       I love computers and technology in general since I was a kid.
       
       I am a very curious person, and I am constantly looking forward to learn
       anything I can. I love to discover new things, to explore alternatives,
       and to think about different ways to get the same result.
+      
+      Since I discovered the DevOps world when I started working as a trainee,
+      I realized that it is like the application of what interests me most of
+      computers to real world IT companies, so this is where I'd love to
+      continue developing my career in.
 
 education:
     - degree: Bachelor's Degree in Computer Science Engineering
@@ -82,7 +85,7 @@ education:
         
 experiences:
     - role: Automation DevOps Trainee
-      time: oct 2021 - Present
+      time: oct 2021 - jun 2022
       company: Holcim EMEA Digital Center
       details: |
         Position in a DevOps team.
@@ -122,6 +125,24 @@ experiences:
           - Process automation (Ansible Tower).
           - Observability (ELK stack).
 
+    - role: Junior DevOps Consultant
+      time: jun 2022 - Present
+      company: Umanis
+      details: |
+        Position in the same DevOps team for the client Holcim EMEA Digital
+        Center I worked in as a trainee.
+        
+        In addition to the tasks I performed as a trainee:
+          - Management of more AWS resources:
+            - Secrets Manager: creation and management of secrets, which are
+              then used by other services (from AWS or external, like
+              OpenShift).
+            - AWS Backup: automated backups for S3 buckets and RDS instances.
+          - Application environment setup ("onboarding"):
+            - GitHub, Quay.io repositories and secrets (using Terraform).
+            - Jenkins CI/CD jobs.
+            - OpenShift projects and ArgoCD.
+
 projects:
     title: Projects
     intro: >
@@ -130,6 +151,10 @@ projects:
       - title: bsptab
         link: https://github.com/albertored11/bsptab
         tagline: "Suckless' tabbed integration into bspwm."
+
+      - title: spotipy-scripts
+        link: https://github.com/albertored11/spotipy-scripts
+        tagline: "Collection of Python scripts that access the Spotify API using spotipy"
 
       - title: twitter-bot-randimg
         link: https://github.com/albertored11/twitter-bot-randimg
@@ -195,4 +220,4 @@ projects:
 #        level: 20%
 
 footer: >
-    Last updated on May 5, 2022.
+    Last updated on July 25, 2022.
